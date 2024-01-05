@@ -3,6 +3,7 @@
 
 ### 기술 아티클
 - **[Next.js 13 pages 폴더에서 app router로 마이그레이션하기](https://jha-memo.tistory.com/95)**
+- **[rollup을 이용하여 리액트 라이브러리 npm에 배포하기](https://jha-memo.tistory.com/219)**
 
 <br />
 
