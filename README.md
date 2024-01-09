@@ -6,8 +6,6 @@
 - **[TypeScript 공식 라이브러리 tslib란 무엇인가](https://jha-memo.tistory.com/224)**
 - **[rollup을 이용하여 리액트 라이브러리 npm에 배포하기](https://jha-memo.tistory.com/219)**
 
-<br />
-
 ### 회고
 - **[당근 면접 후기](https://jha-memo.tistory.com/218)**
 - **[학술제 발표 후기](https://jha-memo.tistory.com/213)**
