@@ -4,7 +4,7 @@
 ### 기술 아티클
 - **[Next.js 13 pages 폴더에서 app router로 마이그레이션하기](https://jha-memo.tistory.com/95)**
 - **[TypeScript 공식 라이브러리 tslib란 무엇인가](https://jha-memo.tistory.com/224)**
-- **[rollup을 이용하여 리액트 라이브러리 npm에 배포하기](https://jha-memo.tistory.com/219)**
+- **[Rollup을 이용한 React 라이브러리 npm 배포](https://jha-memo.tistory.com/228)**
 
 ### 회고
 - **[당근 면접 후기](https://jha-memo.tistory.com/218)**
