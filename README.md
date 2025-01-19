@@ -14,7 +14,7 @@
 <br />
 
 <div>
-  <img src="https://img.shields.io/badge/jhl2619@naver.com-00B2FF?style=flat&logo=messenger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jhl2619@gendata.kr-00B2FF?style=flat&logo=messenger&logoColor=white"/>
 
   <a href="https://jha-memo.tistory.com">
 	  <img src="https://img.shields.io/badge/Tistory-000000?style=flat&color=000000&logo=Tistory&logoColor=FFFFFF"/>
